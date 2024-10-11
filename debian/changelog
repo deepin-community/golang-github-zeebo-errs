@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-zeebo-errs (1.3.0-3) unstable; urgency=medium
 
-  * Initial release
+  * Improve Copyright notices via gitlog2copyright.
+  * Really close ITP bug.  Closes: #1060819.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Simon Josefsson <simon@josefsson.org>  Thu, 18 Jan 2024 22:32:53 +0100
+
+golang-github-zeebo-errs (1.3.0-2) unstable; urgency=medium
+
+  * Improve Copyright notice (ftp-master review).
+
+ -- Simon Josefsson <simon@josefsson.org>  Tue, 16 Jan 2024 18:05:58 +0100
+
+golang-github-zeebo-errs (1.3.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1060819)
+
+ -- Simon Josefsson <simon@josefsson.org>  Mon, 15 Jan 2024 01:59:54 +0100
